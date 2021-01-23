@@ -1,2 +1,2 @@
 # Price-scraper
-Price scraper from the RTV Euro AGD shop
+Price scraper for the RTV Euro AGD shop
